@@ -1,2 +1,2 @@
-# fulldive-vr
+# Fulldive
 Fulldive VR - Virtual Reality
